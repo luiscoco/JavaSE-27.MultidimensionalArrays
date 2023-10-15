@@ -1,4 +1,4 @@
-public class MultidimensionalArrayExample {
+public class MultidimensionalArrays {
     public static void main(String[] args) {
         // Declare and initialize a 2D array
         int[][] matrix = new int[3][3];
