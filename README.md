@@ -1,5 +1,7 @@
 # JavaSE-27.MultidimensionalArrays
 
+See the Udemy course: https://www.udemy.com/course/curso-certificacion-profesional-desarrollador-java-se-11
+
 In Java, a multidimensional array is essentially an array of arrays. This allows you to create tables or matrices with rows and columns. 
 
 Let's say you want to create a 2D array to represent a simple 3x3 matrix:
